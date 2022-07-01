@@ -1,0 +1,28 @@
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.exe
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.deps.json
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.runtimeconfig.json
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.runtimeconfig.dev.json
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.dll
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.pdb
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.csproj.AssemblyReference.cache
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.AssemblyInfoInputs.cache
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.AssemblyInfo.cs
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.csproj.CoreCompileInputs.cache
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.dll
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.pdb
+D:\Доп программы Вадима тесты и другие\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.genruntimeconfig.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.exe
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.deps.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.runtimeconfig.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.runtimeconfig.dev.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\bin\Debug\netcoreapp3.1\SwappingValues.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.csproj.AssemblyReference.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.AssemblyInfoInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.AssemblyInfo.cs
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.csproj.CoreCompileInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\SwappingValues\SwappingValues\obj\Debug\netcoreapp3.1\SwappingValues.genruntimeconfig.cache
